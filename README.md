@@ -1,7 +1,8 @@
 # StockLS - Life Support without the extra parts
 
-Like Malahx's StockPlugins mod, this allows you to have life support without
-adding a bunch of parts that will break the next time KSP is updated.
+Like [Malahx's StockPlugins mod](http://forum.kerbalspaceprogram.com/threads/99869-1-0-X-Malah-s-Stock-configs-added-StockSCANsat-2015-08-30),
+this allows you to have life support without adding a bunch of parts that
+will break the next time KSP is updated.
 
 ## Installation
 
@@ -15,10 +16,10 @@ GameData folder.
 
 Currently:
 
-* USI Life Support
+* [USI Life Support](http://forum.kerbalspaceprogram.com/threads/116790-1-0-USI-Life-Support-0-1-0-2015-04-27)
 
 Planned:
 
-* TACLS
-* Snacks!
+* [TACLS](http://forum.kerbalspaceprogram.com/threads/40667)
+* [Snacks!](http://forum.kerbalspaceprogram.com/threads/90841-1-0-2-Snacks!-Kerbal-simplified-life-support-v0-3-5)
 * Other?
